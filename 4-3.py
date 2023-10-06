@@ -1,3 +1,5 @@
+#ans
+
 maxhp = 78
 
 print('最大HPは'+str(maxhp)+'である。')

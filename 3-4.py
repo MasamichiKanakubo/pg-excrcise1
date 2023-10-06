@@ -1,3 +1,4 @@
+#ans
 print('勇者は竜の谷の地図を表示した')
 
 stages = [
@@ -14,3 +15,10 @@ stages = [
 
 for stage in stages:
     print(stage)
+    
+"""
+解説
+hungmanゲームと同様に
+マッピングはリスト表示で行う
+print文は処理が多くなるかつダサいので採用しない
+"""

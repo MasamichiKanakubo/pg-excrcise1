@@ -1,3 +1,5 @@
+#ans
+
 medical_herb = 2
 anitidotal_herb = 1
 

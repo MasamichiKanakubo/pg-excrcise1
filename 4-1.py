@@ -1,3 +1,5 @@
+#ans
+
 self_attack = 12
 sword = 25
 total_attack = self_attack + sword
