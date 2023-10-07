@@ -2,9 +2,9 @@
 
 maxhp = 78
 
-print('最大HPは'+str(maxhp)+'である。')
+print(f'最大HPは{maxhp}である。')
 
 nowhp = int(input('現在のHPは？：'))    
 percent = nowhp / maxhp * 100
-print('勇者のHP',percent,'%')
+print(f'勇者のHP:{percent}%')
 

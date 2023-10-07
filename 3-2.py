@@ -1,4 +1,4 @@
 #ans
 
 level = 3
-print('勇者のレベルは'+str(level)+'です。')
+print(f'勇者のレベルは{level}です。')

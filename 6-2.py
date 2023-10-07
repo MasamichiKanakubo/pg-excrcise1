@@ -1,10 +1,15 @@
 #ans
 
 print('勇者の攻撃力とオークの守備力を入力してください')
-attack = int(input('勇者の攻撃力：'))
-defence = int(input('オークの守備力：'))
-times = int(input('何回攻撃しますか？：'))
 
+try:
+    attack = int(input('勇者の攻撃力：'))
+    defence = int(input('オークの守備力：'))
+    times = int(input('何回攻撃しますか？：'))
+except ValueError:
+    print('無効な入力です。')
+    exit()
+    
 print('勇者はオークに疾風の如く斬りかかった！')
 
 judge = attack - defence
