@@ -2,6 +2,7 @@
 
 def message():
     print('「ぐうぐう すやすや」')
+    return
   
   
 print('村人A', end='')

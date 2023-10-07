@@ -1,3 +1,4 @@
+#ans
 import random
 
 def critical_strile():
