@@ -9,16 +9,12 @@ except ValueError:
     print('無効な入力です。')
     exit()
 
-"""
-#先に最適解を書いておく
-
-
 list = [lv1,lv2,lv3,lv4]
 
-print(f'パーティの中で最もレベルの高いメンバのレベルは'+{max(list)}+'です。')
-"""
+print(f'パーティの中で最もレベルの高いメンバのレベルは{max(list)}です。')
 
-#if文を使ったおそらく想定している解法
+"""
+#if文を使った想定される解法
 if lv1 >= lv2 and lv1 >= lv3 and lv1 >= lv4:
     max = lv1
 elif lv2 >= lv1 and lv2 >= lv3 and lv2 >= lv4:
@@ -29,4 +25,5 @@ elif lv4 >= lv1 and lv4 >= lv2 and lv4 >= lv3:
     max = lv4
 
 print(f'パーティの中で最もレベルの高いメンバのレベルは{max}です。')
+"""
     
