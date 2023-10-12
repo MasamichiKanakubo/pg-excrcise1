@@ -24,7 +24,7 @@ def hanoi(n, stake1, stake2, stake3):
     print(f"{n}番を{stake1}から{stake3}へ移動")
     hanoi(n - 1, stake2, stake1, stake3)
 
-n = 4
+n = 3
 hanoi(n, 'A', 'B', 'C')
 
 print('パズルが解けた！')
