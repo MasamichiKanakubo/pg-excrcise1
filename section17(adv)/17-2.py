@@ -1,13 +1,24 @@
 #ans
 
-palindrome = input('なんでも回文にします。入力してください:')
-list = list(palindrome)
-print(list)
+"""
+N: 10G
+O: 15G
+*をNかOに置き換えて置き換えた分だけ請求する
+"""
 
-for i in range(len(list) // 2):
-    if list[i] != list[-(i + 1)]:
-        print('回文ではありません')
-        break
-    else:
-        if i == len(list) // 2 - 1:
-            pass
+palindrome = input('なんでも回文にします。入力してください:')
+n_count = 0
+o_count = 0
+for idx, string in enumerate(palindrome):
+    if string == palindrome[-idx-1] == '*':
+        x = palindrome.replace(string, 'N')
+        n_count += 1
+    elif string == '*' and palindrome[-idx-1] == 'N':
+        x = palindrome.replace(string, 'N')
+        n_count += 1
+    elif string == '*' and palindrome[-idx-1] == 'O':
+        x = palindrome.replace(string, 'O')
+        o_count += 1
+    
+print(x)
+print(f'n:{n_count*10}G, o:{o_count*15}Gで合計{n_count*10+o_count*15}です')
