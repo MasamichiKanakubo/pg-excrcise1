@@ -1,4 +1,4 @@
-# Programming-Exercise-1
+# Programming-Exercise-1/the Answer of Homework Python
 ## Overview
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,github,git,vscode)](https://skillicons.dev)
 ### For Ritsumeikan Univ FSD B1 student only
