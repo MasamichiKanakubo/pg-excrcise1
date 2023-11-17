@@ -11,10 +11,10 @@
 ## Quick Start on your Device
 
 ### Environment
-- Windows11
-- python3.11.3
-- WSL2
-- Visual Studio Code
+- OS: Windows11
+- OS: WSL2
+- version: python3.11.3
+- IDE: Visual Studio Code
 
 ### 1. Make your own project
 Open your tarminal(especially windowspowershell in Windows, zsh or bash in macOS)
