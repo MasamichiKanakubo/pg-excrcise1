@@ -29,4 +29,11 @@ git clone https://github.com/MasamichiKanakubo/pg-exercise1.git
 ```
 
 ## Support and Any Question
+
+### Contact here
 If you have any question, dont hesitate and contact me: is0719sf@ed.ritsumei.ac.jp or renlijinjiubao808@gmail.com
+
+### About me
+- Ritumeikan Univ(admission: 2023) FSD Course
+- I take the class programming-lang-1 and exercise-1 on Firday
+
