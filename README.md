@@ -1,5 +1,10 @@
 # Programming-Exercise-1
 
+## How to Use 
+- this is the answer for Ritsumeikan Univ programming-exercise1-1(プロ演１) in 1B
+- this is a public repository cuz everyone's able to watch and clone ur local editor
+- this is uselful to learn programming-exercise-1 python3 and its best practice
+
 ## Quick Start on your Device
 
 ### Environment
