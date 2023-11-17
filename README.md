@@ -35,5 +35,5 @@ If you have any question, dont hesitate and contact me: is0719sf@ed.ritsumei.ac.
 
 ### About me
 - Ritumeikan Univ(admission: 2023) FSD Course
-- I take the class programming-lang-1 and exercise-1 on Firday
+- I take the class programming-lang-1 and exercise-1 on Friday
 
