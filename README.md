@@ -1,5 +1,5 @@
 # Programming-Exercise-1
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,github,git)](https://skillicons.dev)
 
 ## How to Use 
 - this is the answer for Ritsumeikan Univ programming-exercise1-1(プロ演１) in 1B
