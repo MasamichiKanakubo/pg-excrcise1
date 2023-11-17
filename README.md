@@ -17,7 +17,7 @@
 - IDE: Visual Studio Code
 
 ### 1. Make your own project
-Open your tarminal(especially windowspowershell in Windows, zsh or bash in macOS)
+Open your tarminal(especially windowspowershell in Windows, zsh or bash in macOS, ubuntu in Linux)
 
 ```
 mkdir python_programming #any name you can take
