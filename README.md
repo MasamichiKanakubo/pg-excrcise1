@@ -14,6 +14,7 @@
 - Windows11
 - python3.11.3
 - WSL2
+- Visual Studio Code
 
 ### 1. Make your own project
 Open your tarminal(especially windowspowershell in Windows, zsh or bash in macOS)
