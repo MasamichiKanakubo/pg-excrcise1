@@ -4,7 +4,7 @@
 ### For Ritsumeikan Univ FSD B1 student only
 
 ## How to Use 
-- this is the answer for Ritsumeikan Univ programming-exercise1-1(プロ演１) in B1
+- this is the answer for Ritsumeikan Univ programming-exercise-1(プロ演１) in B1
 - this is a public repository cuz everyone's able to watch and clone ur local editor
 - this is uselful to learn programming-exercise-1 python3 and its best practice
 
