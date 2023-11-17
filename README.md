@@ -31,7 +31,7 @@ git clone https://github.com/MasamichiKanakubo/pg-exercise1.git
 ### !Cation
 I have not finished 16-1 cuz of my situation. Please wait for information to be updated.
 
-## Support and Any Question
+## Support and Question
 
 ### Contact here
 If you have any question, dont hesitate and contact me: is0719sf@ed.ritsumei.ac.jp or renlijinjiubao808@gmail.com
