@@ -29,9 +29,7 @@ git clone https://github.com/MasamichiKanakubo/pg-exercise1.git
 ```
 
 ### !Cation
-```
-I have not finished 16-1 cuz of my situation. Please wait for information to be updated.
-```
+`I have not finished 16-1 cuz of my situation. Please wait for information to be updated.`
 
 ## Support and Any Question
 
