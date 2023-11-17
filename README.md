@@ -3,10 +3,6 @@
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,github,git,vscode)](https://skillicons.dev)
 ### For Ritsumeikan Univ FSD B1 student only
 
-:::
-aa
-:::
-
 ## How to Use 
 - this is the answer for Ritsumeikan Univ programming-exercise1-1(プロ演１) in B1
 - this is a public repository cuz everyone's able to watch and clone ur local editor
@@ -30,6 +26,11 @@ cd python_programming
 ### 2. Clone this repository to your own local one
 ```
 git clone https://github.com/MasamichiKanakubo/pg-exercise1.git
+```
+
+### !Cation
+```
+I have not finished 16-1 cuz of my situation. Please wait for information to be updated.
 ```
 
 ## Support and Any Question
