@@ -15,7 +15,15 @@
 - python3.11.3
 - WSL2
 
-### 1. clone this repository to your own local one
+### 1. Make your own project
+Open your tarminal(especially windowspowershell in Windows, zsh or bash in macOS)
+
+```
+mkdir python_programming #any name you can take
+cd python_programming
+```
+
+### 2. Clone this repository to your own local one
 ```
 git clone https://github.com/MasamichiKanakubo/pg-exercise1.git
 ```
