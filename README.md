@@ -1,6 +1,6 @@
 # Programming-Exercise-1
 ## Overview
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,github,git,vscode)](https://skillicons.dev)
 ### For Ritsumeikan Univ ISE student only
 
 ## How to Use 
