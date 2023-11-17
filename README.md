@@ -7,7 +7,7 @@
 - python3.11.3
 - WSL2
 
-### clone this repository to your own local one
+### 1. clone this repository to your own local one
 ```
 git clone https://github.com/MasamichiKanakubo/pg-exercise1.git
 ```
