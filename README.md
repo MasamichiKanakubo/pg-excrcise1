@@ -27,3 +27,6 @@ cd python_programming
 ```
 git clone https://github.com/MasamichiKanakubo/pg-exercise1.git
 ```
+
+## Support and Any Question
+If you have any question, dont hesitate and contact me: is0719sf@ed.ritsumei.ac.jp
