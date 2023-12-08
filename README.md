@@ -1,7 +1,7 @@
-# Programming-Exercise-1/The Answer of Homework Python
+# プログラミング演習１のソースコード
 ## Overview
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,github,git,vscode)](https://skillicons.dev)
-### For Ritsumeikan Univ FSD B1 student only
+### 立命館大学情報理工学部FSDコース１回生必修科目(2023年版)
 
 ## How to Use 
 - this is the answer for Ritsumeikan Univ programming-exercise-1(プロ演１) in B1
