@@ -20,7 +20,7 @@
 Open your tarminal(especially windowspowershell in Windows, zsh or bash in macOS, ubuntu in Linux)
 
 ```
-mkdir python_programming #any name you can take
+mkdir python_programming #任意の名前でディレクトリを作成できます
 cd python_programming
 ```
 
