@@ -3,39 +3,38 @@
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,github,git,vscode)](https://skillicons.dev)
 ### 立命館大学情報理工学部FSDコース１回生必修科目(2023年版)
 
-## How to Use 
-- this is the answer for Ritsumeikan Univ programming-exercise-1(プロ演１) in B1
-- this is a public repository cuz everyone's able to watch and clone ur local editor
-- this is uselful to learn programming-exercise-1 python3 and its best practice
+## 対象ユーザ
+- プログラミング演習１を受講している立命館大学情報理工学部生
+- クローンしてコードを編集できるようにパブリックなリポジトリに設定してあります
+- レジュメには載っていないpythonのベストプラクティスなどを学ぶのに最適です
 
 ## Quick Start on your Device
 
-### Environment
+### 環境
 - OS: Windows11
 - OS: WSL2
+- OS: macOS(M2)
 - version: python3.11.3
 - IDE: Visual Studio Code
 
-### 1. Make your own project
-Open your tarminal(especially windowspowershell in Windows, zsh or bash in macOS, ubuntu in Linux)
+### 1. プロジェクトを立ち上げる
+ターミナルを開いて以下のコードを入力しディレクトリを作成します
 
 ```
 mkdir python_programming #any name you can take
 cd python_programming
 ```
 
-### 2. Clone this repository to your own local one
+### 2. pg-exercise1のプロジェクトをローカル環境にクローン
 ```
 git clone https://github.com/MasamichiKanakubo/pg-exercise1.git
 ```
 
-### !Cation
-I have not finished 16-1 cuz of my situation. Please wait for information to be updated.
-
 ## If you have any Question.....
 
-### Contact here
-If you have any question, dont hesitate and contact me: is0719sf@ed.ritsumei.ac.jp or renlijinjiubao808@gmail.com
+### 連絡先
+大学: is0719sf@ed.ritsumei.ac.jp
+個人: renlijinjiubao808@gmail.com
 
 ### About me
 - Ritumeikan Univ(admission: 2023) FSD Course
